@@ -1,1 +1,5 @@
+# Ignore the API keys
 openai_key.py
+
+# Ignore the fuse files created by vscode
+.fuse*

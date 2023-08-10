@@ -1,5 +1,11 @@
 # Ignore the API keys
-openai_apikey.py
+apikey.py
 
 # Ignore the fuse files created by vscode
 .fuse*
+
+# Ignore the pycache
+__pycache__/
+
+# Ignore large dataset files
+pokemon.csv
